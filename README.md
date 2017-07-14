@@ -1,6 +1,6 @@
 # testing_grounds
 learning github functionality
 
-build #001
+build #002
 testing the commit changes here. Updates to be sent
-the world is roound
+All documents in this repository are for quick access in case device is not present.
